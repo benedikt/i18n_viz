@@ -35,8 +35,9 @@
 .i18n-viz {
   cursor: help;
   background: lightyellow !important;
+  color: black !important;
 }
-/* line 26, ../../../sass/i18n_viz.css.sass */
+/* line 27, ../../../sass/i18n_viz.css.sass */
 .i18n-viz:hover {
   color: black;
   background: yellow !important;
